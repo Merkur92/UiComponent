@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UiComponent</string>
+    <string name="btn_txt_scrollview_vertical">ScrollView - Vertical</string>
+    <string name="btn_txt_scrollview_horizontal">ScrollView - Horizontal</string>
+    <string name="btn_txt_android_button">Android Button</string>
+    <string name="btn_txt_android_imagebutton">Android ImageButton</string>
+    <string name="btn_txt_edittext">EditText</string>
+    <string name="btn_txt_checkbox">Checkbox</string>
+    <string name="btn_txt_radio_button">Radio Button</string>
+    <string name="btn_txt_switch_button">Switch Button</string>
+    <string name="btn_txt_toggle_button">Toggle Button</string>
+    <string name="btn_txt_rating_bar">Rating Bar</string>
+    <string name="btn_txt_spinner">Spinner</string>
+    <string name="btn_txt_progress_bar">Progress Bar</string>
+    <string name="btn_txt_date_picker">Date Picker</string>
+    <string name="btn_txt_time_picker">Time Picker</string>
+    <string name="btn_txt_floating_action_button">Floating Action Button</string>
+    <string name="btn_txt_floating_labels">Floating Labels</string>
+    <string name="btn_txt_seekbar">SeekBar</string>
+    <string name="btn_txt_simple_alert_dialog">Simple Alert Dialog</string>
+    <string name="btn_txt_custom_alert_dialog">Custom Alert Dialog</string>
+    <string name="btn_txt_snackbar">SnackBar</string>
+    <string name="btn_txt_notification">Notification</string>
+    <string name="btn_txt_imageswitcher">ImageSwitcher</string>
+    <string name="btn_txt_videoview">VideoView</string>
+    <string name="btn_txt_webview">WebView</string>
+    <string name="btn_txt_searchviewactivity">SearchViewActivity</string>
+    <string name="btn_txt_calendar_view">Calendar View</string>
+    <string name="notification_text_btn">MOSTRAR NOTIFICACION</string>
+    <string name="snackbar_text_btn">MOSTRAR SNACKBAR</string>
+</resources>
